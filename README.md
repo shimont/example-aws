@@ -1,6 +1,6 @@
 # Amazon Web Service (AWS) - GitHub Action Example
 
-An example workflow, using the [GitHub Action for AWS](https://github.com/tundra-boa/aws) to build, tag, and deploy a container image to a running Kubernetes cluster on EKS.
+An example workflow, using the [GitHub Action for AWS](https://github.com/actions/aws) to build, tag, and deploy a container image to a running Kubernetes cluster on EKS.
 
 ## Workflow
 
